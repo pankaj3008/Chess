@@ -1,0 +1,29 @@
+.box{
+    margin-left:30vw;
+    margin-right:30vw;
+    width: 40vw;
+    height: 40vw;
+    border: 1px solid white;
+}
+.left{
+    float: left;
+    width: 5vw;
+    height: 5vw;
+    clear: right;
+}
+.white{
+    background-color: rgb(251, 229, 202);
+}
+.black{
+    background-color: rgb(202, 147, 92);
+}
+i{
+    font-size: 2.5vw;
+    margin-top: 1.2vw;
+}
+.light{
+    color: white;
+}
+div{
+    text-align: center;
+}
